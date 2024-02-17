@@ -4,7 +4,7 @@ const customError = require("../utils/customError");
 const auth = (req, res, next) => {
   const authHeader = req.headers.authorization;
 
-  if (!authHeader || !authHeader.startsWith("Bearer")) {
+  if (!authHeader || !authHeader.startsWith("Bearer ")) {
     return next(customError("No token provided", 401));
   }
 
