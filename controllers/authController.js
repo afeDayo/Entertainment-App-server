@@ -86,7 +86,7 @@ const login = async (req, res, next) => {
     process.env.JWT_SECRET,
     { expiresIn: "3d" }
   );
-  return res.status(200).json({ id: user._id, token });
+  res.status(200).json({ token, id: user._id });
 };
 
 // =================================================
@@ -94,7 +94,7 @@ const login = async (req, res, next) => {
 const getUser = (req, res, next) => {
   const { userId } = req.user;
   res.status(200).json({
-    message: "If you can see this your token is valid",
+    id: userId,
   });
 };
 
