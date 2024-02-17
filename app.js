@@ -21,7 +21,7 @@ app.use(express.json());
 
 app.use("/api/auth", authRouter);
 
-app.use("/api/movies", movieRouter);
+app.use("/api/movie", movieRouter);
 
 app.use("/api/bookmark", bookmarkRouter);
 
