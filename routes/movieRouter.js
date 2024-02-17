@@ -1,4 +1,5 @@
 const express = require("express");
+
 const methodNotAllowed = require("../utils/methodNotAllowed");
 const {
   allData,

@@ -26,11 +26,6 @@ const movieSchema = new mongoose.Schema({
     required: true,
   },
 
-  downloadLink: {
-    type: String,
-    required: true,
-  },
-
   bookmarkedBy: {
     type: [{ type: mongoose.Types.ObjectId, ref: "User" }],
     default: [],

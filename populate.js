@@ -1,18 +1,25 @@
 require("dotenv").config();
+
 const mongoose = require("mongoose");
-const Movies = require("./models/movies");
+
+const Movie = require("./models/movies");
+
 const movieJson = require("./movies.json");
 
-const startPopulating = async () => {
+const start = async () => {
   try {
     await mongoose.connect(process.env.MONGO_URI);
-    console.log("DB Connected");
+    console.log("Database Connected");
     console.log("Deleting...");
-    await Movies.deleteMany();
+
+    await Movie.deleteMany();
     console.log("Previous once deleted");
     console.log("Uploading...");
-    await Movies.create(movieJson);
+
+    await Movie.create(movieJson);
+
     console.log("Movie Uploaded Successfully");
+
     process.exit(0);
   } catch (error) {
     console.log(error);
@@ -21,4 +28,4 @@ const startPopulating = async () => {
   }
 };
 
-startPopulating();
+start();
