@@ -1,50 +1,82 @@
 [
   {
-    "title": "Avatar 2",
-    "year": "2023",
+    "title": "Madame Web",
+    "year": "2024",
     "rated": "PG-13",
     "type": "movie",
-    "image": "https://cdn.mos.cms.futurecdn.net/FvLi2evhiuCYNdZ7HALQu3.jpeg"
+    "image": "https://images.squarespace-cdn.com/content/v1/51b3dc8ee4b051b96ceb10de/9273aaa5-7c6e-4dbf-b564-224247222d03/new-posters-released-for-the-spider-man-universe-film-madame-web.jpg?format=750w"
   },
 
   {
-    "title": "Transformers 5",
-    "year": "2023",
-    "rated": "PG-13",
-    "type": "movie",
-    "image": "https://images.thedirect.com/media/article_full/transformers-beasts.jpg"
-  },
-
-  {
-    "title": "Oppenheimer",
-    "year": "2023",
+    "title": "V for Vendetta",
+    "year": "2005",
     "rated": "R",
     "type": "movie",
-    "image": "https://static.poder360.com.br/2023/07/oppenheimer-bomba-nuclear-848x477.jpg"
+    "image": "https://movingpicturereview.com/wp-content/uploads/2022/10/v-for-vendetta-poster.jpeg?w=640"
   },
 
   {
-    "title": "The Avengers",
-    "year": "2012",
+    "title": "Avengers: Endgame",
+    "year": "2019",
     "rated": "PG-13",
     "type": "movie",
-    "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA0NjY0NzE4OTReQTJeQWpwZ15BbWU3MDczODg2Nzc@._V1_SX1777_CR0,0,1777,999_AL_.jpg"
+    "image": "https://w0.peakpx.com/wallpaper/34/966/HD-wallpaper-the-avengers-avengers-endgame-avengers-avengers-endgame.jpg"
   },
 
   {
-    "title": "The Wolf of Wall Street",
-    "year": "2013",
+    "title": "Hitman",
+    "year": "2007",
     "rated": "R",
     "type": "movie",
-    "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDIwMDIxNzk3Ml5BMl5BanBnXkFtZTgwMTg0MzQ4MDE@._V1_SX1500_CR0,0,1500,999_AL_.jpg"
+    "image": "https://rukminim2.flixcart.com/image/850/1000/poster/g/g/6/athah-pop-art-poster-hitman-poster-paper-athedmovpop181-medium-original-imaefff6h4tegftm.jpeg?q=90&crop=false"
   },
 
   {
-    "title": "Interstellar",
-    "year": "2014",
+    "title": "Hobbs & Shaw",
+    "year": "2019",
     "rated": "PG-13",
     "type": "movie",
-    "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3NTEwOTMxMV5BMl5BanBnXkFtZTgwMjMyODgxMzE@._V1_SX1500_CR0,0,1500,999_AL_.jpg"
+    "image": "https://w0.peakpx.com/wallpaper/990/1009/HD-wallpaper-fast-and-furious-hobbs-shaw.jpg"
+  },
+
+  {
+    "title": "It",
+    "year": "2017",
+    "rated": "R",
+    "type": "movie",
+    "image": "https://motionarray-portfolio.imgix.net/preview-316324-dSIc33Dz9k-high_0016.jpg?w=660&q=60&fit=max&auto=format"
+  },
+
+  {
+    "title": "Joker",
+    "year": "2019",
+    "rated": "R",
+    "type": "movie",
+    "image": "https://w0.peakpx.com/wallpaper/578/421/HD-wallpaper-joker-movie-2019-poster-joker-movie-joker-2019-movies-movies-joaquin-phoenix-poster.jpg"
+  },
+
+  {
+    "title": "After",
+    "year": "2019",
+    "rated": "PG-13",
+    "type": "movie",
+    "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16102015_v_h9_al.jpg"
+  },
+
+  {
+    "title": "The Killing of a Sacred Deer",
+    "year": "2017",
+    "rated": "15",
+    "type": "movie",
+    "image": "https://mondoshop.com/cdn/shop/products/Vanessa_Foley_TKOASD_Extended.jpg?v=1667673845&width=570"
+  },
+
+  {
+    "title": "Apocalypto",
+    "year": "2006",
+    "rated": "R",
+    "type": "movie",
+    "image": "https://assets-in.bmscdn.com/discovery-catalog/events/et00057641-rzscabdgyt-landscape.jpg"
   },
 
   {
@@ -52,270 +84,110 @@
     "year": "2011",
     "rated": "TV-MA",
     "type": "series",
-    "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDc1MGUyNzItNWRkOC00MjM1LWJjNjMtZTZlYWIxMGRmYzVlXkEyXkFqcGdeQXVyMzU3MDEyNjk@._V1_SX1777_CR0,0,1777,999_AL_.jpg"
+    "image": "https://wallpapers.com/images/featured/game-of-thrones-background-92acb30ilmkjbmu9.jpg"
   },
 
   {
-    "title": "Vikings",
+    "title": "From Scratch",
+    "year": "2022",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://www.geo.tv/assets/uploads/updates/2022-10-31/449596_1893818_updates.jpg"
+  },
+
+  {
+    "title": "24",
+    "year": "2001",
+    "rated": "TV-14",
+    "type": "series",
+    "image": "https://posterspy.com/wp-content/uploads/2014/12/24-landscape.jpg"
+  },
+
+  {
+    "title": "See",
+    "year": "2019",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://i.pinimg.com/originals/7d/01/53/7d0153674e1c61af223168a5695fcb2b.jpg"
+  },
+
+  {
+    "title": "Money Heist",
+    "year": "2017",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://wallpapers.com/images/hd/money-heist-cast-poster-i0hmaz980kt99l31.jpg"
+  },
+
+  {
+    "title": "Peaky Blinders",
+    "year": "2013",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://m.media-amazon.com/images/I/71mXmB41psS._AC_UF1000,1000_QL80_.jpg"
+  },
+
+  {
+    "title": "How to Get Away with Murder",
+    "year": "2014",
+    "rated": "TV-14",
+    "type": "series",
+    "image": "https://wallpapers.com/images/hd/how-to-get-away-with-murder-thriller-7bkgm41k92j6l2ya.jpg"
+  },
+
+  {
+    "title": "Rurouni Kenshin",
+    "year": "1996",
+    "rated": "TV-14",
+    "type": "series",
+    "image": "https://wallpapers.com/images/featured/samurai-x-6kqsiwwpszul1n4f.jpg"
+  },
+
+  {
+    "title": "The Blacklist",
     "year": "2013",
     "rated": "TV-14",
     "type": "series",
-    "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM5MTM1ODUxNV5BMl5BanBnXkFtZTgwNTAzOTI2ODE@._V1_.jpg"
+    "image": "https://wallpapers.com/images/hd/the-blacklist-iconic-poster-i4mbk9rzur3mpsjp.jpg"
   },
 
   {
-    "title": "Secret Invasion",
-    "year": "2023",
-    "rated": "PG-13",
-    "type": "series",
-    "image": "https://media.licdn.com/dms/image/D5612AQGu-El8jVDKJA/article-cover_image-shrink_720_1280/0/1687811301779?e=2147483647&v=beta&t=89g0-W8yfAx8FIvDOW8BMQN8SLIAQzlHf3d02Kj_pxs"
-  },
-
-  {
-    "title": "Power",
-    "year": "2023",
-    "rated": "TV-MA",
-    "type": "series",
-    "image": "https://www.bellanaija.com/wp-content/uploads/2023/02/TPWR_S1_PRShowBanner_Ensemble_1920x1080_EVRGRN_FINAL_en-US_CPS_700.jpg"
-  },
-
-  {
-    "title": "Narcos Mexico S3",
-    "year": "2022",
-    "rated": "18+",
-    "type": "series",
-    "image": "https://www.celebstoner.com/assets/components/phpthumbof/cache/NarcosMexico3_FB.f9a2b1193746fd8dd2c83d90b8b2fdc4.jpg"
-  },
-
-  {
-    "title": "Breaking Bad",
-    "year": "2008",
+    "title": "Prison Break",
+    "year": "2005",
     "rated": "TV-14",
     "type": "series",
-    "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgyMzI5NDc5Nl5BMl5BanBnXkFtZTgwMjM0MTI2MDE@._V1_SY1000_CR0,0,1498,1000_AL_.jpg"
+    "image": "https://wallpapercave.com/wp/wp2274476.jpg"
   },
 
   {
-    "title": "Doctor Strange",
-    "year": "2016",
+    "title": "World War Z",
+    "year": "2013",
     "rated": "PG-13",
     "type": "movie",
-    "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM3ODc1ODI5Ml5BMl5BanBnXkFtZTgwODMzMDY3OTE@._V1_.jpg"
+    "image": "https://wallpapers.com/images/hd/world-war-z-4k-movie-poster-hpqzcv92vnt8h6pb.jpg"
   },
 
   {
-    "title": "Star Wars Episode IX",
-    "year": "2019",
-    "rated": "N/A",
-    "type": "movie",
-    "image": "https://www.highdefgeoff.com/uploads/6/1/1/2/61127263/rise-header_orig.jpg"
-  },
-
-  {
-    "title": "Assassin's Creed",
-    "year": "2016",
-    "rated": "N/A",
-    "type": "movie",
-    "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BN2EyYzgyOWEtNTY2NS00NjRjLWJiNDYtMWViMjg5MWZjYjgzXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg"
-  },
-
-  {
-    "title": "SurrealEstate S01",
-    "year": "2021",
-    "rated": "TV-MA",
-    "type": "series",
-    "image": "https://m.media-amazon.com/images/S/pv-target-images/f4c03fb40a2574524ee44880927d0ce8e62b6317d8a1ba97a0bf11b85da97196.jpg"
-  },
-
-  {
-    "title": "65",
-    "year": "2023",
+    "title": "Justice League",
+    "year": "2017",
     "rated": "PG-13",
     "type": "movie",
-    "image": "https://cdn.mos.cms.futurecdn.net/XFq7vZiu26ccTVZGRwGRgd.jpg"
+    "image": "https://zrockr.com/user-files/uploads/2017/11/maxresdefault.jpg"
   },
 
   {
-    "title": "The Wheel of Time",
-    "year": "2021",
-    "rated": "TV-MA",
-    "type": "series",
-    "image": "https://m.media-amazon.com/images/M/MV5BYmIzZTEyYjctNWM0OC00MzM3LTgxMWMtZDVjMDJhYTNiY2IwXkEyXkFqcGdeQWRvb2xpbmhk._V1_.jpg"
-  },
-
-  {
-    "title": "Gran Turismo",
-    "year": "2023",
-    "rated": "PG-13",
-    "type": "movie",
-    "image": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2023/07/Gran-Turismo.jpg"
-  },
-
-  {
-    "title": "Bleach",
+    "title": "From",
     "year": "2022",
     "rated": "TV-MA",
     "type": "series",
-    "image": "https://www.comingsoon.net/wp-content/uploads/sites/3/2023/05/bleach-thousand-year-blood-war.png"
+    "image": "https://m.media-amazon.com/images/S/pv-target-images/07c377138a10598514954af76e3994ce59719e1210669af5f545becd5b13f796.jpg"
   },
 
   {
-    "title": "The Conjuring 3",
-    "year": "2021",
-    "rated": "R",
-    "type": "movie",
-    "image": "https://rogermooresmovienation.files.wordpress.com/2021/06/con5.jpg"
-  },
-
-  {
-    "title": "Sweet Home S2",
-    "year": "2023",
-    "rated": "+18",
-    "type": "series",
-    "image": "https://images.prothomalo.com/prothomalo-english/2021-02/97752849-093b-4d2e-9e14-6f4d0721cf94/1___Sweet_Home__main_poster.jpg?w=1200&h=639"
-  },
-
-  {
-    "title": "Role Play",
-    "year": "2024",
-    "rated": "TV-MA",
-    "type": "movie",
-    "image": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/7aee56ce21b1dfc58bde4e38baaafa21022a93f3a49a1f8db47b9ba13a769a85._UY500_UX667_RI_TTW_.png"
-  },
-
-  {
-    "title": "Ms. Marvel",
-    "year": "2022",
-    "rated": "PG-13",
-    "type": "series",
-    "image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9681C7C3404BEDE1305C98BD6A300BAB911BF870EF239C1817C11E88A6357467/scale?width=1200&amp;aspectRatio=1.78&amp;format=webp"
-  },
-
-  {
-    "title": "Black.Panther 2",
-    "year": "2022",
-    "rated": "PG-13",
-    "type": "movie",
-    "image": "https://cdn1.parksmedia.wdprapps.disney.com/media/blog/wp-content/uploads/2022/11/bpwf409204924249042.jpg"
-  },
-
-  {
-    "title": "Arcane",
-    "year": "2021",
-    "rated": "TV-14",
-    "type": "series",
-    "image": "https://cdn.oneesports.gg/cdn-data/2021/11/LeagueofLegends_ArcanePosterWallpaper.jpg"
-  },
-
-  {
-    "title": "Detective.Knight.R",
-    "year": "2022",
-    "rated": "R",
-    "type": "movie",
-    "image": "https://expatcinemaprod.blob.core.windows.net/images/c79fd38d-acb0-4df1-9d07-d03af3105320.jpg"
-  },
-
-  {
-    "title": "Shadow and Bone S2",
-    "year": "2023",
-    "rated": "18+",
-    "type": "series",
-    "image": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABY-NpJR8P3dc_ZXlA_9FfXFR-pXEvJj1GNXoZCQRyvfSBeKWfCC0eJa9RRz0todGau2Th5sUqnuESrmHWj7oq-_ciRHfc21sBV-9.jpg?r=046"
-  },
-
-  {
-    "title": "Godzilla vs Kong",
-    "year": "2021",
-    "rated": "PG-13",
-    "type": "movie",
-    "image": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/02/godzilla-kong-international-poster-header.jpg"
-  },
-
-  {
-    "title": "Midnight Mass",
-    "year": "2021",
-    "rated": "PG-13",
-    "type": "series",
-    "image": "https://miro.medium.com/v2/resize:fit:1358/1*kleHAWJftx8-KH_CMyKz3g.jpeg"
-  },
-
-  {
-    "title": "Blade.of.the.47.Ronin",
-    "year": "2022",
-    "rated": "R",
-    "type": "movie",
-    "image": "https://www.whats-on-netflix.com/wp-content/uploads/2022/09/blade-of-47-ronin-netflix-jpg.webp"
-  },
-
-  {
-    "title": "Sandman",
-    "year": "2022",
-    "rated": "18+",
-    "type": "series",
-    "image": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/07/Sandman-Cast-and-Character-guide-feature.jpg"
-  },
-
-  {
-    "title": "LIFT",
-    "year": "2024",
-    "rated": "PG-13",
-    "type": "movie",
-    "image": "https://preview.redd.it/lift-2024-v0-dm9a56lgf7cc1.jpeg?auto=webp&s=cce23c558c1b7cb390edbe1a8cf99a3c8651de02"
-  },
-
-  {
-    "title": "GEN-V",
-    "year": "2023",
-    "rated": "18+",
-    "type": "series",
-    "image": "https://images.justwatch.com/backdrop/308790858/s480/gen-v"
-  },
-
-  {
-    "title": "Warcraft",
-    "year": "2016",
-    "rated": "PG-13",
-    "type": "movie",
-    "image": "https://cfm.yidio.com/images/movie/56116/backdrop-640x360.jpg"
-  },
-
-  {
-    "title": "Thor Love and Thunder",
-    "year": "2022",
-    "rated": "PG-13",
-    "type": "movie",
-    "image": "https://m.media-amazon.com/images/S/pv-target-images/9069f98e1284e74dae8c0e7769a1ffbf881c83973442ec0b43a531bea20c40e5.jpg"
-  },
-
-  {
-    "title": "Rebel Moon",
-    "year": "2023",
-    "rated": "18+",
-    "type": "series",
-    "image": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABcAZ5Q2IKuYzJaqRR-SwpEjkhHuqLPdjhrV0PEP4NLUzLGlNu-qq1k62KPsa51w97Q2zzbPlhGbzgEVwDz-w56nTu2yOLh8JUn1x.jpg?r=272"
-  },
-
-  {
-    "title": "Orion and the Dark",
-    "year": "2024",
-    "rated": "TV-Y7",
-    "type": "movie",
-    "image": "https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQX8X_sIbJS0K9-LjFZHWP_hsCcPrGNjkEM4iAMDfnqQSPZ4YFG7sujqXVf9rOmesU5bCMu87BJgd25Mrkyd95Zco3dhs8MqeQELTPDOkIzYfWXqZwkwKdO3vIYHQ9QIgfeHPpWiSEFRTKOE8Cy1mpPOa.jpg?r=cac"
-  },
-
-  {
-    "title": "House of Ninjas",
-    "year": "2023",
+    "title": "Spartacus",
+    "year": "2010",
     "rated": "TV-MA",
     "type": "series",
-    "image": "https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQZv6ri88cun4Oe8R1sxgy_4i8A2EDprP9ThPhVTnPzyClzYfAROPSE5wEvHZ6jb0h4XK_iEjfksIM6W9yAUs3KDLxANmxs8YTGQnhMq_ffkknNlIRMcBlfTxDHfJgY1JwN-MvA-YG8duLsWwYhXWu2Yt.jpg?r=aff"
-  },
-
-  {
-    "title": "The Beekeeper",
-    "year": "2024",
-    "rated": "R",
-    "type": "movie",
-    "image": "https://i0.wp.com/cedars.cedarville.edu/wp/wp-content/uploads/2024/01/The-Beekeeper-Season-2-release-date.jpg?fit=1200%2C630&ssl=1"
+    "image": "https://rukminim2.flixcart.com/image/850/1000/jbgtnrk0/poster/k/2/g/medium-ashd-wall-poster-spartacus-blood-and-sand-original-imaek7y4p4uc43kg.jpeg?q=20&crop=false"
   }
 ]
